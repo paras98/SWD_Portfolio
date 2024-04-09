@@ -17,6 +17,13 @@ export const data = [
     git: "https://github.com/pskali1998/Rock_Paper_Seasor",
   },
   {
+    id: 3,
+    img: 'https://i.postimg.cc/3wYhjQ1X/vidlydemo.png',
+    title: "Vidly Movie Renting / Rating",
+    link: "https://vidly-c3809.firebaseapp.com/",
+    git: "https://github.com/pskali1998/Vidly",
+  },
+  {
     id: 10,
     img: 'https://i.postimg.cc/zvFS0FYb/sanofi.png',
     title: "Sanofi Web App ",

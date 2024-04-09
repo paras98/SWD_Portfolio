@@ -35,21 +35,48 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  Software Developer
+                  Research Associate
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  Company Name
+                  Carnegie Mellon University
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
                   June 2023 - Present
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
+                Developed a web application for combining public and shuttle transit systems.
+                | Designed to cater to the unique requirements of senior citizens, enhancing their mobility, Prioritized data security and privacy through strong protective measures.
+                | Incorporated user-friendly features for improved accessibility and ensured secure deployment for a reliable experience
+                </p>
+              </div>
+              <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  Teaching Assistant
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  Carnegie Mellon University
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  June 2023 - December 2023
+                </span>
+                <p className=" text-[.9rem] text-justify break-words text-gray-500">
+                Setup of Lab(Ctf) server, executed recitation for homework, teaching, conducted Office hours to help solve doubts. responsible to mentor 13 students. Collaborated with TAs to invent new homework
+                </p>
+              </div>
+              <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  Developer Associate
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                Cognizant Technology Solutions India Pvt. Ltd
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  August 2020 - December 2022
+                </span>
+                <p className=" text-[.9rem] text-justify break-words text-gray-500">
+                Successfully developed and maintained a secure customer-facing pharma platform with robust cybersecurity measures and a data privacy focus, reducing possible threat vector on the platform, performed code reviews.
+                | Led a team of 4 developers in transforming a legacy web application to a new framework with enhanced security and functionality within time constraints.
+                | Developed automated secure deployments scripts using GitLab and integrated security tools for data protection, reducing deployment time by 70% further reducing the cost
                 </p>
               </div>
             </div>
@@ -73,22 +100,28 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  Masters, Computer Science
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  Carnegie Mellon University
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  Year 2023 - Year 2024
+                </span>
+                <p className=" text-[.9rem] text-justify text-gray-5000">
+                Courses Taken Secure Coding: Code analysis/ security reviews, secure coding practices, building a secure file system, Hacking101: Micro corruptions, AFL, CVE replications and analysis Introduction to Information Security: Cryptography, Access Control, Vulnerabilities, Policy, Privacy, Management Applied Information Assurance: Defense-in-Depth, Foundations, Threats, Host Security, Network Security, Network Monitoring, Cryptosystems, Encryption, Incident Response, Digital Forensics, Security Protocol. Cyber Risk modeling: legal compliance, threat modeling, MITRE ATTACK, the Common Vulnerabilities and Exposures database, and popular risk frameworks (STRIDE, PASTA, NIST, Vulnerability Assessment, etc.) Fundamentals of Telecommunication, Introduction to Computer Systems (15513), Browser Security*, Distributed Systems*, Cloud Security*, Ethical Penetration Testing*, Negotiations *
+                </p>
+              </div>
+              <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
                   B.Tech, Computer Science
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  College Name
+                  JUET
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  Year 2023 - Year 2027
+                  Year 2016 - Year 2020
                 </span>
-                <p className=" text-[.9rem] text-justify text-gray-500">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
-                </p>
               </div>
             </div>
           </fieldset>
