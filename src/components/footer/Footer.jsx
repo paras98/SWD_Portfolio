@@ -15,7 +15,7 @@ const Footer = () => {
           <a 
           data-aos="fade-up" data-aos-duration="1200"
 
-            href="mailto:parassaxena1998@gmail.com"
+            href="mailto:parassaxenausa@gmail.com"
             className="box font-medium text-white  flex items-center justify-center flex-col"
           >
             <IoMailOpen className=" text-black text-3xl hover:scale-125 cursor-pointer" />
@@ -32,7 +32,7 @@ const Footer = () => {
           </a>
         </div>
         <div className="sm:text-[12px]">
-          | parassaxena1998@gmail.com | Pittsburgh, PA US |
+          | parassaxenausa@gmail.com | Pittsburgh, PA US |
         </div>
       </div>
     </div>

@@ -48,7 +48,7 @@ const Skills = ({ darkMode }) => {
               <div className=" flex flex-col gap-6  w-3/4  my-5 md:w-[90%]">
                 <ProgressBar
                   logo={<SiJavascript />}
-                  name={"Javascript"}
+                  name={"JavaScript"}
                   value={80}
                 />
                 <ProgressBar logo={<FaReact />} name={"React Js"} value={80} />
@@ -80,7 +80,7 @@ const Skills = ({ darkMode }) => {
                 logo={<SiGoland />}
                 black={"white"}
                 white={"black"}
-                skill={"Go Lang"}
+                skill={"Go"}
               />
             </div>
             <div className="last2 flex flex-col gap-10">
@@ -106,7 +106,7 @@ const Skills = ({ darkMode }) => {
                 }
                 black={"black"}
                 white={"white"}
-                skill={"Postgres"}
+                skill={"PostgreSQL"}
               />
             </div>
           </div>

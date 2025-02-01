@@ -12,7 +12,7 @@ export const data = [
   {
     id: 2,
     img: 'https://i.postimg.cc/dtpFhy58/RPS.png',
-    title: "Rock Paper Sissor Game",
+    title: "Rock Paper Scissors Game",
     link: "https://rockpapersis-3bf4d.firebaseapp.com/",
     git: "https://github.com/pskali1998/Rock_Paper_Seasor",
   },
@@ -35,9 +35,17 @@ export const data = [
     id: 5,
     img: 'https://i.postimg.cc/TPnPc9Kj/RAMP.png',
     title: "RAMP Project",
-    desc: "",
+    desc: "Developed energy-efficient mobility services to optimize rural transportation accessibility and sustainability through data-driven innovation.",
     link: "https://ramp-pilot.com",
     git: "https://github.com/binguidata/RAMP_v1",
+  },
+  {
+    id: 6,
+    img: 'https://i.postimg.cc/sD1Ty5Y8/parking.png',
+    title: "CMU Parking Project",
+    desc: "Developed a sensor-free parking system to optimize efficiency and reduce costs through data-driven innovation.",
+    link: "https://parking-pilot.cmu.edu/",
+    git: "https://github.com/binguidata/ParkingApp",
   },
   
 ];
